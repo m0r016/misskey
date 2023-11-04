@@ -80,6 +80,7 @@ export const ROLE_POLICIES = [
 	'userListLimit',
 	'userEachUserListsLimit',
 	'rateLimitFactor',
+	'canUseChannel'
 ] as const;
 
 // なんか動かない
